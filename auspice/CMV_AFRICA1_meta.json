@@ -1,0 +1,443 @@
+{
+  "annotations": {
+    "AC1": {
+      "end": 1080,
+      "start": 0,
+      "strand": 1
+    },
+    "AC2": {
+      "end": 1080,
+      "start": 988,
+      "strand": 1
+    },
+    "AC4": {
+      "end": 391,
+      "start": 157,
+      "strand": 1
+    },
+    "nuc": {
+      "end": 1080,
+      "start": 0,
+      "strand": 1
+    }
+  },
+  "author_info": {},
+  "color_options": {
+    "country": {
+      "color_map": [
+        [
+          "Angola",
+          "#511EA8"
+        ],
+        [
+          "Benin",
+          "#4334BF"
+        ],
+        [
+          "Burkina_Faso",
+          "#3F50CC"
+        ],
+        [
+          "Cameroon",
+          "#416CCE"
+        ],
+        [
+          "Central_African_Republic",
+          "#4784C7"
+        ],
+        [
+          "Comoros",
+          "#5098B9"
+        ],
+        [
+          "Democratic_Republic_of_the_Congo",
+          "#5CA7A4"
+        ],
+        [
+          "Equatorial_Guinea",
+          "#6BB18E"
+        ],
+        [
+          "Ghana",
+          "#7CB878"
+        ],
+        [
+          "Kenya",
+          "#A4BE56"
+        ],
+        [
+          "Madagascar",
+          "#B9BC4A"
+        ],
+        [
+          "Malawi",
+          "#CCB742"
+        ],
+        [
+          "Mayotte",
+          "#DAAC3D"
+        ],
+        [
+          "Nigeria",
+          "#E39B39"
+        ],
+        [
+          "Oman",
+          "#E68234"
+        ],
+        [
+          "Seychelles",
+          "#E4632E"
+        ],
+        [
+          "south_Africa",
+          "#DF4027"
+        ],
+        [
+          "Tanzania",
+          "#4928B4"
+        ],
+        [
+          "Togo",
+          "#4379CD"
+        ],
+        [
+          "Uganda",
+          "#5CA7A4"
+        ],
+        [
+          "Zambia",
+          "#DC2F24"
+        ]
+      ],
+      "key": "country",
+      "legendTitle": "country",
+      "menuItem": "country",
+      "type": "discrete"
+    },
+    "location": {
+      "key": "location",
+      "legendTitle": "location",
+      "menuItem": "location",
+      "type": "discrete"
+    },
+    "num_date": {
+      "key": "num_date",
+      "legendTitle": "Sampling date",
+      "menuItem": "date",
+      "type": "continuous"
+    },
+    "virus": {
+      "key": "virus",
+      "legendTitle": "virus",
+      "menuItem": "virus",
+      "type": "discrete"
+    }
+  },
+  "defaults": {
+    "mapTriplicate": true
+  },
+  "filters": [
+    "country",
+    "location",
+    "virus"
+  ],
+  "geo": {
+    "country": {
+      "Angola": {
+        "latitude": -9.6265267,
+        "longitude": 13.2658483
+      },
+      "Benin": {
+        "latitude": 9.402045,
+        "longitude": 2.310026
+      },
+      "Burkina_Faso": {
+        "latitude": 12.3216444,
+        "longitude": 0.95749998
+      },
+      "Cameroon": {
+        "latitude": 5.210705,
+        "longitude": 13.585181
+      },
+      "Central_African_Republic": {
+        "latitude": 4.13425,
+        "longitude": 18.18034
+      },
+      "Comoros": {
+        "latitude": -11.82,
+        "longitude": 43.29
+      },
+      "Democratic_Republic_of_the_Congo": {
+        "latitude": 6.357057,
+        "longitude": 19.087156
+      },
+      "Equatorial_Guinea": {
+        "latitude": 3.62365,
+        "longitude": 8.7465
+      },
+      "Ghana": {
+        "latitude": 8.300284,
+        "longitude": -1.800271
+      },
+      "Kenya": {
+        "latitude": 3.62,
+        "longitude": 39.85
+      },
+      "Madagascar": {
+        "latitude": -17.19198231,
+        "longitude": 47.48044615
+      },
+      "Malawi": {
+        "latitude": -13.9735,
+        "longitude": 33.7878
+      },
+      "Mayotte": {
+        "latitude": -12.82,
+        "longitude": 45.15
+      },
+      "Nigeria": {
+        "latitude": 10.80001795,
+        "longitude": 8.17498605
+      },
+      "Oman": {
+        "latitude": 21.736661,
+        "longitude": 56.3664835
+      },
+      "Seychelles": {
+        "latitude": -4.65749,
+        "longitude": 55.45
+      },
+      "Tanzania": {
+        "latitude": -6.1664908,
+        "longitude": 39.2074312
+      },
+      "Togo": {
+        "latitude": 8.24858,
+        "longitude": 1.046253
+      },
+      "Uganda": {
+        "latitude": 1.168253,
+        "longitude": 32.684344
+      },
+      "Zambia": {
+        "latitude": -14.51,
+        "longitude": 27.55
+      },
+      "Zimbabwe": {
+        "latitude": -16.4184958,
+        "longitude": 31.1330274
+      },
+      "kenya": {
+        "latitude": 3.62,
+        "longitude": 39.85
+      },
+      "south_Africa": {
+        "latitude": -29.8129196,
+        "longitude": 30.6364594
+      }
+    },
+    "location": {
+      "acoua": {
+        "latitude": -12.723,
+        "longitude": 45.059
+      },
+      "anjouan": {
+        "latitude": -12.204,
+        "longitude": 44.51
+      },
+      "arua": {
+        "latitude": 2.9479914,
+        "longitude": 31.1256453
+      },
+      "bengo": {
+        "latitude": -9.6265267,
+        "longitude": 13.2658483
+      },
+      "bioko": {
+        "latitude": 3.62365,
+        "longitude": 8.7465
+      },
+      "bungoma": {
+        "latitude": 0.716893067,
+        "longitude": 34.62064837
+      },
+      "bushenyi": {
+        "latitude": -0.538941,
+        "longitude": 30.1894
+      },
+      "busia": {
+        "latitude": 0.3837873,
+        "longitude": 34.1862253
+      },
+      "chad": {
+        "latitude": 9.1017,
+        "longitude": 18.0925
+      },
+      "dembeni": {
+        "latitude": -12.805,
+        "longitude": 45.197
+      },
+      "diana": {
+        "latitude": -13.4086,
+        "longitude": 49.203
+      },
+      "funyula": {
+        "latitude": 0.25829,
+        "longitude": 34.052603
+      },
+      "grande_comore": {
+        "latitude": -11.71,
+        "longitude": 43.29
+      },
+      "iganga": {
+        "latitude": 0.6782174,
+        "longitude": 33.5522381
+      },
+      "kaberamaido": {
+        "latitude": 1.760093,
+        "longitude": 33.253222
+      },
+      "kagamega": {
+        "latitude": 0.28,
+        "longitude": 34.72
+      },
+      "kalangala": {
+        "latitude": -0.6932717,
+        "longitude": 32.3754492
+      },
+      "kani_keli": {
+        "latitude": -12.955,
+        "longitude": 45.106
+      },
+      "kano": {
+        "latitude": 12.0,
+        "longitude": 8.35
+      },
+      "kapou": {
+        "latitude": 4.13425,
+        "longitude": 18.18034
+      },
+      "kilifi": {
+        "latitude": 3.62,
+        "longitude": 39.85
+      },
+      "koubri": {
+        "latitude": 12.048222,
+        "longitude": -1.2525001
+      },
+      "lake_victoria_basin": {
+        "latitude": -2.524675,
+        "longitude": 31.29054
+      },
+      "lekana": {
+        "latitude": 2.315936,
+        "longitude": 14.58198
+      },
+      "machakos": {
+        "latitude": -1.35,
+        "longitude": 37.37
+      },
+      "makueni": {
+        "latitude": -1.7903026,
+        "longitude": 37.6286033
+      },
+      "malaba": {
+        "latitude": 0.6328964,
+        "longitude": 34.2765543
+      },
+      "malaimbandy": {
+        "latitude": -20.35304,
+        "longitude": 45.59957
+      },
+      "manakara": {
+        "latitude": -22.25,
+        "longitude": 47.88
+      },
+      "marivorahona": {
+        "latitude": -13.1038,
+        "longitude": 49.11025
+      },
+      "maromandia": {
+        "latitude": -14.21,
+        "longitude": 48.07
+      },
+      "masaka": {
+        "latitude": -0.4831071,
+        "longitude": 31.8319203
+      },
+      "migori": {
+        "latitude": -1.0666,
+        "longitude": 34.46659
+      },
+      "mkueni": {
+        "latitude": -2.3666,
+        "longitude": 37.9
+      },
+      "moheli": {
+        "latitude": -12.303,
+        "longitude": 43.639
+      },
+      "mpigi": {
+        "latitude": 0.012,
+        "longitude": 31.7366968
+      },
+      "mtwapa": {
+        "latitude": -3.95,
+        "longitude": 39.744444
+      },
+      "mumias": {
+        "latitude": 0.3363,
+        "longitude": 34.4891
+      },
+      "nakasongola": {
+        "latitude": 1.320436,
+        "longitude": 32.489435
+      },
+      "namulonge": {
+        "latitude": 2.3181,
+        "longitude": 14.5886
+      },
+      "ouagadougou": {
+        "latitude": 12.39,
+        "longitude": 1.51
+      },
+      "sega": {
+        "latitude": 0.2491504,
+        "longitude": 34.2247653
+      },
+      "siaya": {
+        "latitude": 0.1439837,
+        "longitude": 34.31009315
+      },
+      "toliara": {
+        "latitude": -23.735,
+        "longitude": 43.68938
+      },
+      "ugunja": {
+        "latitude": 0.199011,
+        "longitude": 34.2794216
+      },
+      "wakiso": {
+        "latitude": 0.2182858,
+        "longitude": 32.5130304
+      },
+      "zanzibar": {
+        "latitude": -6.1664908,
+        "longitude": 39.2074312
+      }
+    }
+  },
+  "maintainer": [
+    "PestDisPlace",
+    "https://pestdisplace.org/"
+  ],
+  "panels": [
+    "tree",
+    "map",
+    "entropy"
+  ],
+  "title": "Real-time tracking of cassava-infecting geminiviruses in Africa (DNA-A)",
+  "updated": "08 Dec 2020",
+  "virus_count": 699
+}
